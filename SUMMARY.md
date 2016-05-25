@@ -2,4 +2,4 @@
 
 * [Introduction](README.md)
 
-* [Cool, dude](test/hello.md)
+* [Cool, dude](test/hello.html)
